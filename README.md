@@ -9,5 +9,9 @@ ext3, 1
 
 ext4,1
 
+<<<<<<< HEAD
 ext5,1
 ext 4
+=======
+ext 5,1
+>>>>>>> refs/heads/features/featureGFT
