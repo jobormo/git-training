@@ -17,4 +17,6 @@ ext3, 1
 
 test
 tes4
+tst3
+
 
